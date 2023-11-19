@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\bin\Debug\net6.0\Example_001_HrlloConsole.exe
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\bin\Debug\net6.0\Example_001_HrlloConsole.deps.json
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\bin\Debug\net6.0\Example_001_HrlloConsole.runtimeconfig.json
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\bin\Debug\net6.0\Example_001_HrlloConsole.dll
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\bin\Debug\net6.0\Example_001_HrlloConsole.pdb
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.AssemblyInfo.cs
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.dll
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\refint\Example_001_HrlloConsole.dll
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.pdb
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\Example_001_HrlloConsole.genruntimeconfig.cache
+C:\Users\Dima\Desktop\C#\Example_001_HrlloConsole\obj\Debug\net6.0\ref\Example_001_HrlloConsole.dll
