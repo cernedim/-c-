@@ -9,7 +9,7 @@
         index++;
      }
 }
-
+//я тут
 void Printmass(int[] col)
 {
      int count = col.Length;
@@ -19,6 +19,12 @@ void Printmass(int[] col)
         Console.WriteLine(col[position]);
         position++;
      }
+}
+
+int indexoff(int[] collection, int find);
+{
+   int count = Collection.Length
+   int index = 0;
 }
 
 int[] mass = new int[15];
